@@ -1,7 +1,7 @@
 # Tableau
-Tableau basics
+**Tableau basics**
 
-Tableau makes it easy to build beautiful, interactive visualization from raw data.<\n>
+Tableau makes it easy to build beautiful, interactive visualization from raw data."\n>"
 Tableaus is designed to be used by a range of business and non-technical users and also provides access to a deep computational ability for advanced data analytics.
 
 Why Tableau:
@@ -10,10 +10,10 @@ Why Tableau:
 3. intuitive [visual cues and icons make the interface easier to navigate]
 4. Quick and robust prototyping [drag and drop interface makes it fast]
 
-With Tableau you frame the business question you want to answer, import and clean data, analyze  and visualize date, make business decision and finally present insights all within one tool.
+With Tableau you frame the business question you want to answer, import and clean data, analyze  and visualize data, make business decision and finally present insights all within one tool.
 
 It's used by data analysts, business analyst and quantitative analyst.
-Tableau alone has a market share of 15.5% of market share in BI category, making it the most popular BI tool among others i.e. QlikView, Cognos, Hyperion etc. Ref https://enlyft.com/tech/business-intelligence
+Tableau alone has a market share of 15.5% in BI category, making it the most popular BI tool among others i.e. QlikView, Cognos, Hyperion etc. Ref https://enlyft.com/tech/business-intelligence
 
 The software:
 There are two version of Tableau SW: Free and Paid version
