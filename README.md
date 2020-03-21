@@ -22,4 +22,4 @@ The free version has most of the features except:
 2. can't load more than 15 million rows of data
 3. support limited version of data source
 
-download public versin @ https://public.tableau.com/
+download public version @ https://public.tableau.com/
