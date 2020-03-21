@@ -1,7 +1,7 @@
 # Tableau
 **Tableau basics**
 
-Tableau makes it easy to build beautiful, interactive visualization from raw data. \n
+Tableau makes it easy to build beautiful, interactive visualization from raw data.  
 Tableaus is designed to be used by a range of business and non-technical users and also provides access to a deep computational ability for advanced data analytics.
 
 Why Tableau:
@@ -12,12 +12,12 @@ Why Tableau:
 
 With Tableau you frame the business question you want to answer, import and clean data, analyze  and visualize data, make business decision and finally present insights all within one tool.
 
-It's used by data analysts, business analyst and quantitative analyst.
+It's used by data analysts, business analyst and quantitative analyst.  
 Tableau alone has a market share of 15.5% in BI category, making it the most popular BI tool among others i.e. QlikView, Cognos, Hyperion etc. Ref https://enlyft.com/tech/business-intelligence
 
 The software:
-There are two version of Tableau SW: Free and Paid version
-The free version has most of the features except:
+There are two version of Tableau SW: Free and Paid version  
+The free version has most of the features except:  
 1. cant save your workbook locally [workbook stored publicly on Tableau
 2. cant load more than 15 million rows of data
 3. support limited version of data source
@@ -32,12 +32,12 @@ Why Tableau:
 
 With Tableau you frame the business question you want to answer, import and clean data, analyze  and visualize date, make business decision and finally present insights all within one tool.
 
-It's used by data analysts, business analyst and quantitative analyst.
+It's used by data analysts, business analyst and quantitative analyst.  
 Tableau alone has a market share of 15.5% of market share in BI category, making it the most popular BI tool among others i.e. QlikView, Cognos, Hyperion etc. Ref https://enlyft.com/tech/business-intelligence
 
 The software:
-There are two version of Tableau SW: Free and Paid version
-The free version has most of the features except:
+There are two version of Tableau SW: Free and Paid version  
+The free version has most of the features except:  
 1. cant save your workbook locally [workbook stored publicly on Tableau
 2. cant load more than 15 million rows of data
 3. support limited version of data source
