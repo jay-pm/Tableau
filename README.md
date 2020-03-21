@@ -1,7 +1,7 @@
 # Tableau
 **Tableau basics**
 
-Tableau makes it easy to build beautiful, interactive visualization from raw data."\n>"
+Tableau makes it easy to build beautiful, interactive visualization from raw data."\n"
 Tableaus is designed to be used by a range of business and non-technical users and also provides access to a deep computational ability for advanced data analytics.
 
 Why Tableau:
