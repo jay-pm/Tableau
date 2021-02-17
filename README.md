@@ -1,6 +1,8 @@
 # Tableau
 **Tableau basics**
 
+*Factual data is convincing and visuallization is an incrediby efficient way to get your point acrros.*
+
 Tableau makes it easy to build beautiful, interactive visualization from raw data.  
 Tableau is designed to be used by a range of business and non-technical users and also provides access to a deep computational ability for advanced data analytics.
 
@@ -20,6 +22,6 @@ There are two version of Tableau SW: Free and Paid version
 The free version has most of the features except:  
 1. can't save your workbook locally [workbook stored publicly on Tableau
 2. can't load more than 15 million rows of data
-3. support limited version of data source
+3. support limited version of data source (SV, excel and text file)
 
 download public version @ https://public.tableau.com/
